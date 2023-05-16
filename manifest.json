@@ -1,0 +1,11 @@
+{
+    "name": "HTML Line Count",
+    "version": "1.0",
+    "description": "Counts the number of lines of HTML code on the current page",
+    "permissions": ["scripting", "activeTab"],
+    "action":{
+        "default_popup": "popup.html",
+        "default_title": "HTML Line Count"
+    },
+    "manifest_version": 3
+  }
